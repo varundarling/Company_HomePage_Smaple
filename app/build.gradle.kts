@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.varun.sample"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.varun.sample"
